@@ -1,0 +1,7 @@
+My name is Ashwin Siripurapu.
+
+To build this program, simply run "ghc --make histogram" (no quotation marks) at the command line.
+To run this program on a file or group of files, do "./histogram file1 file2 ..."
+    ex: ./histogram tom_sawyer.txt othello.txt 1984.txt
+To run this program so that it takes input from stdin, run it with "./histogram"
+    ex: cat war_and_peace.txt | ./histogram
